@@ -1,0 +1,14 @@
+{
+  "expenses": [
+    {
+      "id": "46869445-5f9c-4650-941f-41bd9457bc07",
+      "month": 1,
+      "date": "2024-01-03",
+      "category": "shopping",
+      "amount": 1000000,
+      "description": "테슬라 모델 3",
+      "createdBy": "Musk",
+      "userId": "41bd9457bc07-5f9c-4650-941f"
+    }
+  ]
+}
